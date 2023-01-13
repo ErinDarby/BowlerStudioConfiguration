@@ -6,7 +6,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/ErinDarby/wplswordpuzzle.git:wplswordpuzzle.ino": [
+      "https://github.com/ErinDarby/wplswordpuzzle.git",
+      "wplswordpuzzle.ino"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
